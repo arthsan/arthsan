@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Unity and Golang
 - 👯 I’m collaborating on LaFinca Studio
 - 🎮: I enjoy creating video games
-- 🖌️: I like to model in 3d
+- 🖌️: My hobby is modeling in 3d
 - 📫 How to reach me: arthur_sbd@hotmail.com
 
 ## Social media :mailbox_with_no_mail:
