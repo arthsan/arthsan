@@ -17,4 +17,4 @@
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/arthur-durant/)
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=arthsan&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthsan&hide=shaderlab&hide=hsls&langs_count=8&layout=compact)](https://github.com/arthsan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthsan&hide=shaderlab&hide=hlsl&langs_count=8&layout=compact)](https://github.com/arthsan/github-readme-stats)
