@@ -3,6 +3,7 @@
 # I'm Arthur Durant
 
 ## 💫About Me :
+
 🔭 I’m currently working on Tradersclub
 🌱 I’m currently learning Solidity and Blockchain
 👯 I’m collaborating on LaFinca Studio
