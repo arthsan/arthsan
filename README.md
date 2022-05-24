@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on Tradersclub
-- 🌱 I’m currently learning Unity and Golang
+- 🌱 I’m currently learning Solidity and Blockchain
 - 👯 I’m collaborating on LaFinca Studio
-- 🎮 I enjoy creating video games
+- 🎮 I enjoy creating video games with Unity
 - 🖌️ My hobby is modeling in 3d
 - 📫 How to reach me: arthur_sbd@hotmail.com
 
