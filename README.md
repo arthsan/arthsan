@@ -18,3 +18,6 @@
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=arthsan&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthsan&hide=shaderlab,hlsl&langs_count=8&layout=compact)](https://github.com/arthsan/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthsan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthsan&theme=dracula)
